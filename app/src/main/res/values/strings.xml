@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chat_App</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">type a Message</string>
+    <string name="online_now">Online Now</string>
+    <string name="back">back</string>
+    <string name="next">Next</string>
+
+    <string name="header1">Welcome Back</string>
+    <string name="header2">Simple UI</string>
+    <string name="header3">Login or Signup</string>
+    <string name="header4">Notification Messages</string>
+
+
+    <string name="dec1">Welcome back dear user. We hope you have a good time while using our application </string>
+    <string name="dec2">Beautiful,simple and easy to use user interface. We hope you like it</string>
+    <string name="dec3">Effortlessly access our Android app with the Login or Signup feature powered by Firebase Choose between quick social sign in or traditional email and password options for a secure and personalized user experience.</string>
+    <string name="des4">Stay informed and connected with our Notification Messages feature.Receive real time updates, alerts, and personalized notifications to enhance your app experience Whether it simportant announcements, new messages, or activity updates, we ll keep you in the loop, ensuring you never miss a beat</string>
+</resources>
